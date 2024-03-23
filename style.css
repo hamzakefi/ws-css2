@@ -1,0 +1,5 @@
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+.img1 {margin-left: 50%;}
+header{display: flex;}
